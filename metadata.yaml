@@ -1,0 +1,32 @@
+_repo: Men-Women-and-Ghosts_10744
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    - Ward, Elizabeth Stuart Phelps
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Ghost stories, American'
+- GITenberg
+tableOfContents: No news -- The tenth of January -- Night-watches -- The day of my
+  death -- "Little Tommy Tucker" -- One of the elect -- What was the matter? -- In
+  the Gray Goth -- Calico -- Kentucky's ghost.
+title: Men, Women, and Ghosts
+url: http://www.gutenberg.org/ebooks/10744
